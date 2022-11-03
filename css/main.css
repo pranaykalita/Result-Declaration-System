@@ -1,0 +1,26 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#sticky-footer {
+flex-shrink: none;
+}
+
+#datasec{
+padding: 4em 5em;
+}
+footer{
+    position: fixed;
+    left:0px;
+    bottom:0px;
+    width: 100%;
+}
+
+::-webkit-scrollbar {display:none;}
+
+
+.marksheet{
+    background: #ffffff;
+    border: 5px solid rgb(0, 0, 0);
+}
